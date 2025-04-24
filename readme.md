@@ -18,4 +18,4 @@ Follow these steps to get the data (assumes running linux, macOS or Windows Subs
     mv ~/Downloads/kaggle.json ~/.kaggle/kaggle.json
     chmod 600 ~/.kaggle/kaggle.json
     ```
-6. Run the [get-data.sh](./get-data.sh) script or use the [DataExploration](./DataExploration.ipynb) notebook
+6. Run the [get_data.sh](./get-data.sh) script or use the [data_exploration](./DataExploration.ipynb) notebook
