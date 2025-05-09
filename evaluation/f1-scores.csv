@@ -1,7 +1,0 @@
-model,score
-Finetuned BERT,0.81
-XG Boost,0.73
-Logistic Regression,0.76
-Random Forest,0.72
-Support Vector Machine,0.52
-Ensemble,0.75
