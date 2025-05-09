@@ -39,6 +39,9 @@ Our best and final model, which we submitted to Kaggle for the competition, is t
 Each of our models' respective notebook contains evaluation code to check its accuracy, precision, recall and F1 scores.
 In addition to this, we generated charts for comparison in the [evaluation](./evaluation/evaluation.ipynb) notebook.
 
+## Prediction
+You may load up and run our model against arbitrary text using the [prediction](./prediction/prediction.ipynb) notebook.
+
 ## Results
 Our best model, the modular ensemble, gained a competition score of 0.83849 placing us at position 70 on the leaderboard. 
 
